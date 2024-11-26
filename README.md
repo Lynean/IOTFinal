@@ -1,2 +1,2 @@
 # IOTFinal
-This is the Final Project of Funix IOT course
+This is my Final Project of the Funix IOT course with Lumi
