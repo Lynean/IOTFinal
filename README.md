@@ -7,7 +7,7 @@
 	- Control board:
 		- STM32F401RE  PC6		----UART---->    PC0			EFR32MG21
 	- LED strip connection:
-		- WS2812       Data (Pulled UP 5V) --One-Wire-->    PC0 (Pulled UP 5V)	EFR32MG21
+		- WS2812       DataLine (Pulled UP 5V) --One-Wire-->    PC0 (Pulled UP 5V)	EFR32MG21
 		- WS2812       GND 		------------>    GND			EFR32MG21
 	   	- WS2812       5V		------------>    5V Supply
 	  	- EFR32MG24    5V		------------>    5V Supply
