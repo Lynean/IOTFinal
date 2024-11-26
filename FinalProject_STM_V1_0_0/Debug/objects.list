@@ -1,0 +1,6 @@
+"./Src/FlashMem/flashmem.o"
+"./Src/FlashMem/std/stm32f4xx_flash.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f401retx.o"

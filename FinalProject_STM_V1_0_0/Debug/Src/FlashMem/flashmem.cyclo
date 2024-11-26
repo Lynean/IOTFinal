@@ -1,0 +1,5 @@
+../Src/FlashMem/flashmem.c:25:6:flashConfig	1
+../Src/FlashMem/flashmem.c:40:14:flashWrite	1
+../Src/FlashMem/flashmem.c:47:10:flashReadWord	1
+../Src/FlashMem/flashmem.c:55:14:flashClear	1
+../Src/FlashMem/flashmem.c:63:17:GetSector	23

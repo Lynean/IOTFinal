@@ -1,0 +1,5 @@
+../Src/FlashMem/flashmem.c:25:6:flashConfig	8	static
+../Src/FlashMem/flashmem.c:40:14:flashWrite	24	static
+../Src/FlashMem/flashmem.c:47:10:flashReadWord	24	static
+../Src/FlashMem/flashmem.c:55:14:flashClear	16	static
+../Src/FlashMem/flashmem.c:63:17:GetSector	24	static
