@@ -1,6 +1,9 @@
 # IOTFinal
 - This is my final project for the Funix IOT course with Lumi. Mentored by Mr.Phuong
-- Here is my demo video (including active modes): https://drive.google.com/file/d/15P0fPUeadqqbs1FvRIRN9EnKdWg_IYVA/view?usp=sharing
+  
+- PROJECT: Smart RGB LED strip dual-control using Lumi Life App & physical control board
+  
+- Here is the demo video: https://drive.google.com/file/d/15P0fPUeadqqbs1FvRIRN9EnKdWg_IYVA/view?usp=sharing
 
 - WIRING:
 	- Control board:
