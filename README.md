@@ -4,13 +4,13 @@ Here is my demo video (including active modes): https://drive.google.com/file/d/
 
 WIRING:
 - Control board:
-      STM32F401RE  PC6               ----UART---->    PC0                EFR32MG21
+	STM32F401RE  PC6               ----UART---->    PC0                EFR32MG21
 - LED strip connection:
       WS2812       PC0(Pulled UP 5V) --One-Wire-->    PC0(Pulled UP 5V)  EFR32MG21
       WS2812       GND               ------------>    GND                EFR32MG21
       WS2812       5V                ------------>    5V Supply
       EFR32MG24    5V                ------------>    5V Supply
-
+ 
 BINDING GUIDE:
 - Press any button (SW1 / SW2) on the EFR32MG21 kit (LED strip) twice to start as a Binding Target.
 - Wait till the LED starts blinking PINK.
